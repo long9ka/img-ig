@@ -1,0 +1,10 @@
+{
+  "name": "loverosie",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "image-downloader": "^3.4.2",
+    "puppeteer": "^1.17.0"
+  }
+}
