@@ -10,5 +10,3 @@ const destImg = './images';
 ```js
 main() // Execute main function
 ```
-
-### Run - `node app.js`
